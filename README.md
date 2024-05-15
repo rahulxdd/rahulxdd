@@ -1,4 +1,5 @@
 ### Hi there 👋
+  <p align="left"><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxdd&layout=compact&langs_count=7&theme=dark" />&nbsp; </p>
 
 <!--
 **rahulxdd/rahulxdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
