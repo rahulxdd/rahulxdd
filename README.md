@@ -1,7 +1,11 @@
 ### Hi there 👋
   <p align="left"><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxdd&layout=compact&langs_count=7&theme=dark" />&nbsp; </p>
-[![](https://github-readme-activity-graph.vercel.app/graph?username=rahulxdd&bg_color=white&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1200 src="https://github-profile-trophy.vercel.app/?username=rahulxdd&column=8&no-frame=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulxdd" width="37%" alt="rahulxdd's Top Languages">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulxdd&" alt="rahulxdd" width="60%" ><br><br><br><br><br><br><br><br><br><br>
 
+</a>
 <!--
 **rahulxdd/rahulxdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
